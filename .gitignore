@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+
+# IDE & OS specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Results and logs
+results/
+logs/
+*.log
+
+# Model weights (keep only if you want to version-control)
+models/*.pt
+models/*.onnx
+models/*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# Environment / config
+.env
+*.env

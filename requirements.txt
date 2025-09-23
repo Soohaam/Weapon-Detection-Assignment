@@ -1,0 +1,6 @@
+ultralytics==8.2.18
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+torchaudio==2.2.0+cpu
+opencv-python
+numpy
