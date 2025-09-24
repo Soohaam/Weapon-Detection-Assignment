@@ -108,7 +108,7 @@ This repository presents a **deep learning–powered vision system** that detect
 #### 1. Handgun Detection
 | Raw Image                                      | Detected Image                                  |
 |------------------------------------------------|-------------------------------------------------|
-| ![Raw Handgun](data/images/sample4.jpg) | ![Detected Handgun](results/weapons_detection_results/sample4.jpg) |
+| ![Raw Handgun](data/images/sample4.jpeg) | ![Detected Handgun](results/weapons_detection_results/sample4.jpg) |
 | **Description**: The original test image.      | **Description**: A sample frame highlighting the model's accurate detection of a handgun. |
 
 #### 2. Rifle Detection
