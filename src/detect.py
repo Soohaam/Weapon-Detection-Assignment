@@ -23,6 +23,7 @@ def run_inference(weights_path, source):
             exist_ok=True,
             show=True
         )
+        
         print(f"✅ Image processed! Check {base_results_dir}/ for outputs.")
 
     elif source.lower().endswith((".mp4", ".avi", ".mov", ".mkv")):
