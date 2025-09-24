@@ -72,7 +72,7 @@ This repository presents a **deep learning–powered vision system** that detect
    ### 📷 Dataset Sample
 - ![Dataset Sample](results/weapons_train/val_batch0_labels.jpg)
 
-## 🌟 Key Performance Highlights & Training Results
+## 🌟Performance Metrics & Training Results
    ### Box F1 Curve
 - ![Box F1 Curve](results/weapons_train/BoxF1_curve.png)  
   - **Performance Highlight**: Peaks at **0.56** (confidence 0.404), showcasing an optimal balance of precision and recall for threat detection.
@@ -124,6 +124,7 @@ This repository presents a **deep learning–powered vision system** that detect
 #### 3. Video Output - Detection in Action
 
 https://github.com/user-attachments/assets/705030ef-4f41-4191-94d3-6969bd7c88ac
+
 
 
 
