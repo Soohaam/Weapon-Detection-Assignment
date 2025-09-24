@@ -22,7 +22,7 @@ This repository presents a **deep learning–powered vision system** that detect
    ```bash
    pip install -r requirements.txt
 3. **Download model weights**
-   The weights (best.pt) can be found in: [Drive](https://drive.google.com/drive/folders/1PhbHRhIakjWbKMVoHb5EQBHlnxbg-3f_?usp=sharing).
+   The weights (best.pt) can be found in: [Drive](https://drive.google.com/drive/folders/1894yIs5YOcNfqNlah3vHarlOgASgqV2u?usp=sharing).
     ```bash
    pip install -r requirements.txt
    results/weapons_train/weights/best.pt
@@ -117,7 +117,6 @@ This repository presents a **deep learning–powered vision system** that detect
 | ![Raw Rifle](data/images/sample3.jpg) | ![Detected Rifle](results/weapons_detection_results/sample3.jpg) |
 | **Description**: The original test image.      | **Description**: An example frame showcasing the model's capability to detect a rifle in a real-world image setting. |
 
-### 🎬 Video Input Results
 ### 🎬 Video Input Results
 
 #### 3. Video Output - Detection in Action
