@@ -12,14 +12,14 @@ def run_inference(weights_path, source):
 
     # Check if source is image or video
     if source.lower().endswith((".jpg", ".jpeg", ".png")):
-        # Save image output directly inside weapons_detection_results
+       
         results = model.predict(
             source=source,
             imgsz=640,
             conf=0.25,
             save=True,
-            project=base_results_dir,   # ✅ root-level results
-            name=".",                   # ⚡ avoid "predict" folder
+            project=base_results_dir,   
+            name=".",                   
             exist_ok=True,
             show=True
         )
