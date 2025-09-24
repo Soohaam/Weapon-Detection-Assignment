@@ -120,5 +120,5 @@ This repository presents a **deep learning–powered vision system** that detect
 ### 🎬 Video Input Results
 
 #### 3. Video Output - Detection in Action
-- [Watch Detection Video](results/outputvideo.mp4)  
+- [Watch Detection Video](data/newoutput.mp4)  
   - **Description**: A video clip displaying the model processing a test video, with bounding boxes and labels updated in real-time.
