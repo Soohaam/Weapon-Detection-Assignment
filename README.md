@@ -11,7 +11,7 @@ This repository presents a **deep learning–powered vision system** that detect
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Soohaam/Weapon-Detection.git
+   git clone https://github.com/Soohaam/Weapon-Detection-Assignment.git
    cd Weapon-Detection
 2. **Create & activate a virtual environment**
     Windows (PowerShell):
@@ -124,6 +124,7 @@ This repository presents a **deep learning–powered vision system** that detect
 #### 3. Video Output - Detection in Action
 
 https://github.com/user-attachments/assets/705030ef-4f41-4191-94d3-6969bd7c88ac
+
 
 
 
